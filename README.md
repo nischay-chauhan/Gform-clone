@@ -18,7 +18,7 @@ A real-time collaborative document editor inspired by Google Docs, implemented w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/google-docs-form-clone.git
+   git clone https://github.com/nischay-chauhan/google-docs-form-clone.git
    cd google-docs-form-clone
    npm install
 2. Usage
